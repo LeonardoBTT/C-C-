@@ -4,7 +4,6 @@
     ".stylelintrc": "json",
     ".prettierrc": "json",
     "*.rmd": "markdown",
-    "iomanip": "cpp",
-    "iostream": "cpp"
+    "ostream": "cpp"
   }
 }
